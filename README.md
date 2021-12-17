@@ -1,1 +1,2 @@
-# pro-c31
+# synchronousBallMovement
+Ball moving synchronously
